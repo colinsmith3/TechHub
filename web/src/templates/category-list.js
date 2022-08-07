@@ -36,7 +36,7 @@ function CategoryList({ data, pageContext }) {
         <div className="container">
           <PageHeader
             title="All Categories"
-            description="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam, veniam."
+            description="This month will bring about the 88th Academy Awards. Starting in 1928, this prestigious award ceremony..."
           />
           <CategoryGrid categories={categories} />
           {numberOfPages > 1 && (
