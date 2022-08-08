@@ -36,4 +36,11 @@ To create this website we will use `JAMstack`. We will use `Gatsby.js` for the f
 - [React-PortableText](https://github.com/portabletext/react-portabletext)
 - [Axios](https://www.npmjs.com/package/axios)
 
+## Tools Used
 
+- Images: Unsplash
+- Code Editor: VS Code
+
+## License
+
+[MIT][mit]
