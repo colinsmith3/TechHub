@@ -43,4 +43,4 @@ To create this website we will use `JAMstack`. We will use `Gatsby.js` for the f
 
 ## License
 
-[MIT][mit]
+[MIT](mit)
