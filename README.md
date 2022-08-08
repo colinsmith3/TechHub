@@ -44,3 +44,10 @@ To create this website we will use `JAMstack`. We will use `Gatsby.js` for the f
 ## License
 
 [MIT](mit)
+
+## Credits
+
+This application uses open source components and tutorials from a content creator. You can find the source code of their open source projects along with license information below. 
+
+Project: https://github.com/ShaifArfan/techHub-blog
+License: (MIT)
