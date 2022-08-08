@@ -3,8 +3,8 @@ const sanityConfig = require('./sanity-config');
 
 module.exports = {
   siteMetadata: {
-    title: `TechHub-blog`,
-    siteUrl: `https://techhub-blog.netlify.com`,
+    title: `TechHub`,
+    siteUrl: `https://wondrous-kleicha-ac228a.netlify.app`,
     description: `TechHub Blog is a platform for latest technology news and updates.`,
   },
   plugins: [
