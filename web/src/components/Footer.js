@@ -30,7 +30,7 @@ function Footer() {
           ))}
         </ul>
         <ParagraphText className="copyright">
-          @TechHun-Blog Creative {new Date().getFullYear()}. All rights reserved
+          @TechHub {new Date().getFullYear()}. All rights reserved
         </ParagraphText>
       </div>
     </FooterStyles>
